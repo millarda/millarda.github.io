@@ -91,52 +91,36 @@
       "endDate": "Present",
       "gpa": "3.59",
       "courses": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Basic Circuit Analysis I",
+        "Basic Circuit Analysis II",
+        "Introduction to Digital Design",
+        "Signal and System Analysis",
+        "Microelectronic Circuits I",
+        "Microelectronic Circuits I Lab",
+        "Physical Electronics",
+        "EE Probability & Statistics",
+        "Digital Sys & Computer Design",
+        "Digital Sys & Computer Des Lab",
+        "Discrete Math for Engineers",
+        "Computer Data Struct & Algrthm",
+        "Computer Data Struct & Alg Lab",
+        "Engr Electromagnetics I",
+        "Intro to Operating Systems",
+        "Ethics in Elect Engr"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "AKM Technologies",
+      "position": "President",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Maintain website for Ka'ala Systems Technology",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain, update, and oversee ksthawaii.com",
+        "Manage the documents and legal matters associated with AKM Technologies"
       ]
     }
   ],
@@ -169,22 +153,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Dean's List",
+      "Semesters": "Fall 2015, Spring 2016, Spring 2017 and Fall 2018",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Award given to students of UH Manoa for academic excellence during a certain semester."
     },
     {
-      "title": "First place",
+      "title": "Eagle Scout",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "awarder": "Boy Scouts of America",
+      "summary": "Boy Scout rank earned in Troop 42, Sacred Heart Church."
     }
   ]
 }
