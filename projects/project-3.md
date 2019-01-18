@@ -10,6 +10,8 @@ labels:
   - HTML
   - CSS
   - JavaScript
+  - Network Drive
+  - GitHub
 summary: I created and manage the website for Ka'ala Systems Technology
 ---
 
