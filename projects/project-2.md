@@ -21,8 +21,8 @@ StudyBoss is an iOS application that I helped design with my teammate Brandon Wo
 StudyBoss was not published to the AppStore but is open source.
 
 <video width="320" height="240" controls>
-  <source src="images/SampleViewDecks.mp4" type="video/mp4">
+  <source src="https://millarda.github.io/images/SampleViewDecks.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Source: <a href="https://github.com/bmwfire/StudyBoss"><i class="large github icon"></i>StudyBoss/vacay</a>
+Source: <a href="https://github.com/bmwfire/StudyBoss"><i class="large github icon"></i>StudyBoss</a>
