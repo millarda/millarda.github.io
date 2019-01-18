@@ -1,59 +1,23 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/kstlogocrop.png
+title: KST Website
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-07-01
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: I created and manage the website for Ka'ala Systems Technology
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/kstweb.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I developed the website for Ka’ala Systems Technology (KST). It acts as a majority of KST’s online presence and as a way for KST to meet some of its requirements as a government contractor. The website contains general information of the company such as contact information and the contracts that they have won. There is also a news section that contains articles about events within KST. A job posting page is also available that contains information on jobs that are available and how to apply for them. The website also serves as a location for various training programs that workers may need to use.
 
-To give you a flavor of the game, here is an excerpt from one run:
+I first learned about web design from the previous web developer for them. I only met with him once but he showed me the basics of HTML coding. I then went online and watched videos and read articles to learn CSS and get a better understanding of HTML. I went on to design the entire website from scratch using CSS, HTML and minor JavaScript.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
 
 <hr>
 
