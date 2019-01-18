@@ -12,7 +12,7 @@ labels:
   - JavaScript
   - Network Drive
   - GitHub
-summary: I created and manage the website for Ka'ala Systems Technology
+summary: I created and manage the website for Ka'ala Systems Technology.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/kstweb.png">
