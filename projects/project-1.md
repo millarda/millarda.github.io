@@ -1,21 +1,23 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/wires.png
 title: Micromouse
-permalink: projects/micromouse
+permalink: projects/alohapau
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-11-17
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Logic
+  - Circuitry
+  - Logicworks
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
+<img class="ui medium right floated rounded image" src="../images/circuitdiagram.png">
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/wires.png">
-  <img class="ui image" src="../images/circuitdiagram.png">
+  <img class="ui image" src="../images/table.png">
+  <img class="ui image" src="../images/chart.png">
 </div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
