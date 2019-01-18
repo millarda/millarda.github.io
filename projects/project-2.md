@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://millarda.github.io/images/studyboss.PNG
+image: images/studyboss.PNG
 title: StudyBoss
 permalink: projects/studyboss
 # All dates must be YYYY-MM-DD format!
