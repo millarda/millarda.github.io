@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Interests
+title: How I Became Acquainted with Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
 labels:
