@@ -10,7 +10,7 @@ labels:
   - Swift
   - Xcode
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: iOS flash card app for studying that was created for an EE 396 project.
 ---
 
 <!-- <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png"> -->
