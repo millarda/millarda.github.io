@@ -9,7 +9,7 @@ labels:
   - Learning
   - JavaScript
 ---
-<h2>Learning JavaScript<h2>
+<h2>Learning JavaScript</h2>
 JavaScript is a language that I have previously only had light knowledge of. I had only really learned enough of it to be able to modify small pieces of JavaScript code (maybe 40 lines). In my new class ICS 314 we have rapidly begun learning and practicing how to use the language effectively. We have already done a large number of exercises from <a href="https://learn.freecodecamp.org/">freeCodeCamp</a> that have given me a more thorough understanding of basic JavaScript. This already completes one of my goals for this course, but I am excited to get a deeper understanding of the language. 
 
 <img class="ui image" src="{{ site.baseurl }}/images/freeCodeCamp.jpg">
