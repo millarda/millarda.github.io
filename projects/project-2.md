@@ -16,10 +16,13 @@ summary: A responsive web application for travel planning that my team developed
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+StudyBoss is an iOS application that I helped design with my teammate Brandon Wong. The purpose of StudyBoss is to act as a flashcard app with a built in notification feature. With StudyBoss, a user can create a deck of cards each with a front and back. A user can then browse the cards in a deck the way they would with actual flash cards. They can then quiz themselves by flipping the cards as they browse the cards. The order the cards are presented in is random to help make it easier for one to quiz themselves.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+StudyBoss was not published to the AppStore but is open source.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<video width="320" height="240" controls>
+  <source src="images/SampleViewDecks.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Source: <a href="https://github.com/bmwfire/StudyBoss"><i class="large github icon"></i>StudyBoss/vacay</a>
