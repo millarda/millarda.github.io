@@ -21,7 +21,7 @@ I developed the website for Ka’ala Systems Technology (KST). It acts as a majo
 
 I first learned about web design from the previous web developer for them. I only met with him once but he showed me the basics of HTML coding. I then went online and watched videos and read articles to learn CSS and get a better understanding of HTML. I went on to design the entire website from scratch using CSS, HTML and minor JavaScript.
 
-For the legal matters I created my own company called AKM Technologies. In legal terms, this company is contracted by KST.
+For the legal matters I created my own company called AKM Technologies which is contracted by KST.
 
 
 <hr>
