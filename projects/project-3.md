@@ -7,8 +7,9 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2017-07-01
 labels:
-  - Lisp
-  - GitHub
+  - HTML
+  - CSS
+  - JavaScript
 summary: I created and manage the website for Ka'ala Systems Technology
 ---
 
@@ -18,8 +19,10 @@ I developed the website for Ka’ala Systems Technology (KST). It acts as a majo
 
 I first learned about web design from the previous web developer for them. I only met with him once but he showed me the basics of HTML coding. I then went online and watched videos and read articles to learn CSS and get a better understanding of HTML. I went on to design the entire website from scratch using CSS, HTML and minor JavaScript.
 
+For the legal 
+
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Website: <a href="http://www.ksthawaii.com/index.html">www.ksthawaii.com</a>
 
