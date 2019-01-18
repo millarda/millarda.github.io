@@ -5,7 +5,7 @@ image: images/studyboss2.PNG
 title: StudyBoss
 permalink: projects/studyboss
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-12-12
 labels:
   - Swift
   - Xcode
