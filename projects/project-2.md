@@ -21,7 +21,9 @@ summary: A responsive web application for travel planning that my team developed
 Your browser does not support the video tag.
 </video>
 
-StudyBoss is an iOS application that I helped design with my teammate Brandon Wong. The purpose of StudyBoss is to act as a flashcard app with a built in notification feature. With StudyBoss, a user can create a deck of cards each with a front and back. A user can then browse the cards in a deck the way they would with actual flash cards. They can then quiz themselves by flipping the cards as they browse the cards. The order the cards are presented in is random to help make it easier for one to quiz themselves.
+StudyBoss is an iOS application that I helped design with my teammate Brandon Wong. The purpose of StudyBoss is to act as a flashcard app with a built in notification feature.
+
+With StudyBoss, a user can create a deck of cards each with a front and back. A user can then browse the cards in a deck the way they would with actual flash cards. They can then quiz themselves by flipping the cards as they browse the cards. The order the cards are presented in is random to help make it easier for one to quiz themselves.
 
 
 
