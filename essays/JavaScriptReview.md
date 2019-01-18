@@ -1,4 +1,16 @@
-JavaScript is a language that I have previously only had light knowledge of. I had only really learned enough of it to be able to modify small pieces of JavaScript code (maybe 40 lines). In my new class ICS 314 we have rapidly begun learning and practicing how to use the language effectively. We have already done a large number of exercises from freeCodeCamp HYPERLINK that have given me a more thorough understanding of basic JavaScript. This already completes one of my goals for this course, but I am excited to get a deeper understanding of the language. 
+---
+layout: essay
+type: essay
+title: My Thoughts on JavaScript and Athletic Software Engineering
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-18
+labels:
+  - Athletic Software Engineering
+  - Learning
+  - JavaScript
+---
+
+JavaScript is a language that I have previously only had light knowledge of. I had only really learned enough of it to be able to modify small pieces of JavaScript code (maybe 40 lines). In my new class ICS 314 we have rapidly begun learning and practicing how to use the language effectively. We have already done a large number of exercises from <a href="https://learn.freecodecamp.org/">freeCodeCamp</a> that have given me a more thorough understanding of basic JavaScript. This already completes one of my goals for this course, but I am excited to get a deeper understanding of the language. 
 
 I enjoy JavaScript’s lax regulations on syntax; however, this does bring some concern with code possibly not acting as expected. What I mean is that JavaScript is far more likely to execute incorrect code than a more rigorous language like C which would not compile in the first place. I do consider the ease of JavaScript to make it more approachable as well as useful for quickly producing work. I would much rather use a more rigid language for the situation when code performing unexpectedly could lead to catastrophic results.
 
