@@ -10,7 +10,7 @@ labels:
   - Logic
   - Circuitry
   - Logicworks
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My team created a circuit that could cycle through the word "ALOHA" or "PAU" based on the input from a switch.
 ---
 
 <div class="ui small rounded images">
