@@ -26,7 +26,7 @@ With StudyBoss, a user can create a deck of cards each with a front and back. A 
 
 <img class="ui image" src="{{ site.baseurl }}/images/timer.png">
 
-StudyBoss was coded with swift in the Xcode IDE. This required the learning of a type of language that I was unfamiliar with. Xcode's storyboard layout for coding gave me a look at a different way to develop software. This is because the storyboard allows the developer to design what the app does using a GUI with modules and relationships.
+StudyBoss was coded with swift in the Xcode IDE. This required the learning of a type of language that I was unfamiliar with. Xcode's storyboard layout for coding gave me a look at a different way to develop software. This is because the storyboard allows the developer to design what the app does using a GUI with modules and relationships. I was responsible for the decks and flashcard portion of the project. This included creation and deletion of decks and flashcards as well as the ability to quiz yourself.
 
 StudyBoss was not published to the AppStore but is open source.
 
