@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/wires.png
-title: Micromouse
+title: Aloha Pau
 permalink: projects/alohapau
 # All dates must be YYYY-MM-DD format!
 date: 2016-11-17
