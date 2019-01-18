@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: https://millarda.github.io/images/studyboss.PNG
+title: StudyBoss
+permalink: projects/studyboss
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
@@ -26,12 +26,12 @@ StudyBoss is an iOS application that I helped design with my teammate Brandon Wo
 
 
 StudyBoss' notification settings allowed the user to pick a time and then receive periodical notifications from that point onward.
-
+<!--
 <video width="320" height="240" controls>
   <source src="https://millarda.github.io/images/SampleViewTimer.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
+-->
 StudyBoss was not published to the AppStore but is open source.
 
 
