@@ -28,14 +28,7 @@ With StudyBoss, a user can create a deck of cards each with a front and back. A 
 
 
 StudyBoss' notification settings allowed the user to pick a time and then receive periodical notifications from that point onward.
-<!--
 
-<video width="320" height="240" controls>
-  <source src="https://millarda.github.io/images/SampleViewTimer.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
--->
 StudyBoss was not published to the AppStore but is open source.
 
 
