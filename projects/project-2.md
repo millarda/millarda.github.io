@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/studyboss.PNG
+image: images/studyboss2.PNG
 title: StudyBoss
 permalink: projects/studyboss
 # All dates must be YYYY-MM-DD format!
