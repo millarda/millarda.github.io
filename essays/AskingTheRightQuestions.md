@@ -9,7 +9,7 @@ labels:
   - Etiquette
 ---
 <h2>Good and Poor Questions</h2>
-The article by Eric Steven Raymond found <a href="http://www.catb.org/esr/faqs/smart-questions.html">here</a> goes into detail about smart and dumb questions. Disclaimer: It is unreccomended to contact them to fix your problems. As a reflection of this reading I will be giving an example of each type of question. These questions will be from the popular forum Stack Overflow.
+The article by Eric Steven Raymond found <a href="http://www.catb.org/esr/faqs/smart-questions.html">here</a> goes into detail about smart and dumb questions. Disclaimer: Do not contact them for generic help, they have requested this disclaimer be made. As a reflection of this reading I will be giving an example of each type of question. These questions will be from the popular forum Stack Overflow.
 
 <img class="ui image" src="{{ site.baseurl }}/images/so-logo.png">
 
