@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Asking the Right Questions
+title: Keeping Code Readable
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-24
+date: 2019-02-07
 labels:
-  - Learning
+  - Professionalism
   - Etiquette
+  - Standards
 ---
 <h2>Keeping Code Readable</h2>
 Coding readability is something that I have found a couple different opinions on. Some people don't care at all about coding standards or readability and simply focus on function. Others may go out of their way to ensure their code is unreadable by anyone to ensure their job security. Some heavily value coding standards as it allows for efficient collaboration as well as allowing future edits to the work to be as efficient as possible.
@@ -15,4 +16,4 @@ I have begun using an integrated development environment (IDE) called IntelliJ I
 
 <img class="ui image" src="{{ site.baseurl }}/images/intellij.png">
 
-I did have some issues with properly setting up ESLint that I was able to troubleshoot through. But otherwise I do find ESLint as a good way to force myself to adopt modern and professional code structure. I often teach myself how to code certain languages or use certain programs, but I always find myself missing a little bit of something important. For example, until recently I didn't realize that code wrapping was a common feature for most IDE's. This is now something that I have enabled on all IDE's that I use. In fact this essay was typed on an editor with it enabled.
+I did have some issues with properly setting up ESLint that I was able to troubleshoot through. But otherwise I do find ESLint as a good way to force myself to adopt modern and professional code structure. I often teach myself how to code certain languages or use certain programs, but I always find myself missing a little bit of something important. For example, until recently I didn't realize that code wrapping was a common feature for most IDE's. This is now something that I have enabled on all IDE's that I use. In fact this essay was typed on an editor with it enabled. Now that I have a better grasp on using coding standards, I do consider it something to appreciate.
