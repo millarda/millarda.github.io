@@ -19,6 +19,5 @@ I have begun using an integrated development environment (IDE) called IntelliJ I
   display: block;
   margin-left: auto;
   margin-right: auto;">
-</img>
 
 I did have some issues with properly setting up ESLint that I was able to troubleshoot through. But otherwise I do find ESLint as a good way to force myself to adopt modern and professional code structure. I often teach myself how to code certain languages or use certain programs, but I always find myself missing a little bit of something important. For example, until recently I didn't realize that code wrapping was a common feature for most IDE's. This is now something that I have enabled on all IDE's that I use. In fact this essay was typed on an editor with it enabled. Now that I have a better grasp on using coding standards, I do consider it something to appreciate.
