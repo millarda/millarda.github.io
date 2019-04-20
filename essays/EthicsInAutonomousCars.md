@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Designing an Ethical Algorithm: Self Driving Cars
+title: Designing an Ethical Algorithm - Self Driving Cars
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-19
 labels:
