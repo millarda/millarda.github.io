@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns: Finding Solutions
+title: Design Patterns - Finding Solutions
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-27
 labels:
-  - Learning
-  - Etiquette
+  - Problem Solving
 ---
 <h2>Quick Background of Design Patterns</h2>
 Design patterns are a useful tool for figuring out a problem. It provides a general process or idea to solve problems that could exist in a software environment. They can also be represented as a concept that one might use when deciding how to design part of a project.
