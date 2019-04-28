@@ -10,7 +10,7 @@ labels:
 ---
 <h2>Quick Background of Design Patterns</h2>
 Design patterns are a useful tool for figuring out a problem. It provides a general process or idea to solve problems that could exist in a software environment. They can also be represented as a concept that one might use when deciding how to design part of a project.
-<img class="ui image" src="{{ site.baseurl }}/images/so-logo.png">
+<img class="ui image" src="{{ site.baseurl }}/images/design.jpg">
 
 <h2>Examples of Design Patterns</h2>
 I will cover three types of design patterns: Creational, Structural and Behavioral.
