@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Benefits of Using Design Patterns
+title: Design Patterns: Finding Solutions
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-27
 labels:
