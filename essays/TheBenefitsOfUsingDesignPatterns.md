@@ -15,7 +15,7 @@ Design patterns are a useful tool for figuring out a problem. It provides a gene
 <h2>Examples of Design Patterns</h2>
 I will cover three types of design patterns: Creational, Structural and Behavioral.
 
-<h3>Creational</h2>
+<h3>Creational</h3>
  Creational desgin patterns are based on how one would design the classes and objects with respect to each other in a project. For example, a "Singleton" is the design pattern where a class will only exist as a single instance. This could be something like a world in a game environment or a network of a nodes. Another one is the "Prototype" is an object that has a general description of itself. It allows the developer to easily copy or alter the prototype to create new similar objects that fit their design. Another one would 
  
 <h3>Structural</h3>
