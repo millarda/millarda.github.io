@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/AlohaStudy.png
-title: Aloha Pau
-permalink: projects/alohapau
+title: AlohaStudy Website
+permalink: projects/alohastudy
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-08
 labels:
