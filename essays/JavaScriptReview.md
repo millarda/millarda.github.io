@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: My Thoughts on JavaScript and Athletic Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
