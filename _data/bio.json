@@ -6,7 +6,7 @@
     "email": "millarda@hawaii.edu",
     "phone": "808-383-5316",
     "website": "https://millarda.github.io",
-    "summary": "Student looking to be part of a productive team working on something substantial that has a meaningful purpose. I am expected to graduate in May 2019. I am excited to apply my computer and scientific skills as well as acquire skills pertinent to any work I would be doing. I have created my own company that is based in web design.",
+    "summary": "Graduate looking to be part of a productive team working on valuable projects. I am excited to apply my computer and scientific skills as well as acquire skills pertinent to any work I would be doing. Web design has become one of my passions that I am pursuing. I have created my own company that is based in web design.",
     "location": {
       "address": "1717 Mott-Smith Dr. Suite 2314",
       "postalCode": "96822",
@@ -52,23 +52,17 @@
       "name": "Languages and Frameworks",
       "level": "Proficient",
       "keywords": [
-        "C",
-        "Java",
-        "Javascript",
-        "Python",
-        "CSS",
-        "HTML",
-        "Swift"
+        "Javascript", "HTML", "CSS", "Python", "Java", "SQL", "C", "Swift"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "Windows"
+        "Ubuntu",
+        "MacOS"
       ]
     }
   ],
@@ -78,8 +72,8 @@
       "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2015-08-17",
-      "endDate": "Present",
-      "gpa": "3.59",
+      "endDate": "2019-05-19",
+      "gpa": "3.63",
       "courses": [
         "Basic Circuit Analysis I",
         "Basic Circuit Analysis II",
@@ -117,7 +111,7 @@
   "awards": [
     {
       "title": "Dean's List",
-      "Semesters": "Fall 2015, Spring 2016, Spring 2017 and Fall 2018",
+      "Semesters": "Fall 2015, Spring 2016, Spring 2017, Fall 2018 and Spring 2019",
       "awarder": "State of Hawaii",
       "summary": "Award given to students of UH Manoa for academic excellence during a certain semester."
     },
